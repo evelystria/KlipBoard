@@ -21,8 +21,8 @@ This is part of my 'study-the-examples' series, of how certain things can be don
 ## Documentation
 
 ### Libraries
-- pynput
-- pyperclip
+- [pynput](https://pypi.python.org/pypi/pynput)
+- [pyperclip](https://pypi.python.org/pypi/pyperclip)
 
 ### Usage
 This script is not yet compiled into an executable, thus you will need to compile it manually.
