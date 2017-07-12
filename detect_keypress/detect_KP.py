@@ -6,6 +6,7 @@ import pyperclip, re
 ####################
 sentence = "" # Stores user's key inputs
 shift = False # Checks if shift keys are pressed/not (Default: False)
+print("[KlipBoard]\nCommands:\n\t'Backspace' - Moves 1 step backwards\n\t'Del' - Clear sentence\n\t'ESC' - Ends key listener and compile sentence")
 
 ################
 # Word Counter #
@@ -37,6 +38,9 @@ def on_press(key):
             shift = True
         elif key == keyboard.Key.enter:
             sentence += "\n"
+        elif key == keyboard.Key.delete:
+            print('Clearing all characters in the sentence.')
+            sentence = ""
         #print('special key {0} pressed'.format(key))
 
 def on_release(key):
