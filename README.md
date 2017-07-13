@@ -20,6 +20,7 @@ Compiled version: [Download here](https://hostr.co/eD41T7PWPBfs)
   * Windows ONLY
 * Unsupported
   * Windows Alt Codes (eg. ™,†,,♥,♦,..)
+  * CTRL+C/CTRL+V commands will not work during the process
 * Clears the sentence (**NEW**)
   
 ## Documentation
